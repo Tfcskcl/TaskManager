@@ -1,8 +1,8 @@
 <?php  
 
-$sName = "localhost";
-$uName = "root";
-$pass  = "";
+$sName = "github";
+$uName = "tfcskcl@gmail.com";
+$pass  = "Tfcs@2403";
 $db_name = "task_management_db";
 
 try {
